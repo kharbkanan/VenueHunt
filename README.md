@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Venue Hunt
 
 Venue Hunt is a comprehensive venue recommendation and booking system built with Django. The platform connects event organizers with venue owners, making it easy to find and book venues for various events.
